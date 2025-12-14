@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\bin\Debug\net10.0\AkilliAracKiralama.exe
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\bin\Debug\net10.0\AkilliAracKiralama.deps.json
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\bin\Debug\net10.0\AkilliAracKiralama.runtimeconfig.json
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\bin\Debug\net10.0\AkilliAracKiralama.dll
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\bin\Debug\net10.0\AkilliAracKiralama.pdb
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\obj\Debug\net10.0\AkilliAracKiralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\obj\Debug\net10.0\AkilliAracKiralama.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\obj\Debug\net10.0\AkilliAracKiralama.AssemblyInfo.cs
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\obj\Debug\net10.0\AkilliAracKiralama.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\obj\Debug\net10.0\AkilliAracKiralama.dll
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\obj\Debug\net10.0\refint\AkilliAracKiralama.dll
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\obj\Debug\net10.0\AkilliAracKiralama.pdb
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\obj\Debug\net10.0\AkilliAracKiralama.genruntimeconfig.cache
+C:\Users\asus\source\repos\AkilliAracKiralama\AkilliAracKiralama\obj\Debug\net10.0\ref\AkilliAracKiralama.dll
